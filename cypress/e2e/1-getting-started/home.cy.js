@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-describe('cenário 01 - verity home page testing', () => {
+describe('cenário 01 - Teste home', () => {
 
   beforeEach(() => {
     cy.visit('/')
