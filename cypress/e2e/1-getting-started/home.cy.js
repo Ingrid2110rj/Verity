@@ -6,7 +6,7 @@ describe('cenário 01 - verity home page testing', () => {
     cy.visit('/')
   })
 
-  it('Verificar se os títulos: Culture e Tech; e Nossas soluções_ estão visíveis na home page em português', () => {
+ it('Verificar se os títulos: Nossos clientes; e Nossas soluções_ estão visíveis', () => {
     cy.contains('Nossas soluções_').should('be.visible')
     cy.contains('Nossos clientes_').should('be.visible')
     
