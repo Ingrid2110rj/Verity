@@ -1,7 +1,5 @@
 /// <reference types="cypress" />
 
-import usuario from "..//..//fixtures//usuario.json"
-
 describe('cenário 02 - Teste contatos', () => {
 
     beforeEach(() => {
