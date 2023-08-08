@@ -33,14 +33,14 @@
 No terminal, clone o projeto:
 
 ```
-git clone <[https://github.com/Ingrid2110rj/DesafioVerity.git]>
+git clone <[https://github.com/Ingrid2110rj/Verity.git]>
 
 ```
 
 Acesse a pasta do projeto no terminal/cmd:
 
 ```
-cd DesafioVerity
+cd Verity
 
 ```
 
